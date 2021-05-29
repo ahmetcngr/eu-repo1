@@ -1,3 +1,7 @@
 EU5 is learning git and github
 
 EU5 liked short videos
+
+now I already publisched my local repo to Github.com, the connection is created
+
+from this point on we will just commits to remote repo
